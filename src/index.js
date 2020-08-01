@@ -54,7 +54,6 @@ class TileMap extends PIXI.Container {
     }
   }
   partToBoxBody(part) {
-    //debugger;
     const x1 = part[0][0];
     const y1 = part[0][1];
 
