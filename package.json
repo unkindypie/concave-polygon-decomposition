@@ -1,0 +1,24 @@
+{
+  "name": "box-non-overlapping-propblem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitmap-to-boxes": "^1.0.0",
+    "html-webpack-plugin": "^4.3.0",
+    "ndarray-pack": "^1.2.1",
+    "open-simplex-noise": "^2.4.0-pre4",
+    "pixi.js": "^5.3.2",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  }
+}
